@@ -1,0 +1,50 @@
+{
+"DeployTargets" :
+[
+    {    
+        "Domain" : "Stage",
+        "Servers" :
+        [
+            {"Name" : "SJSTWEB02"},
+            {"Name" : "SJSTWEB03"},
+            {"Name" : "SJSTWEB04"},
+            {"Name" : "SJSTWEB05"}
+        ]
+    },
+    { 
+        "Domain" : "Integration",
+        "Servers" :
+        [
+            {"Name" : "SJINWEB01"},
+            {"Name" : "SJINWEB02"},
+            {"Name" : "SJINWEB03"},
+            {"Name" : "SJINWEB04"}
+        ]
+    },
+    { 
+        "Domain" : "Demo",
+        "Servers" :
+        [
+            {"Name" : "SJDEWEB01"},
+            {"Name" : "SJDEWEB02"},
+            {"Name" : "SJDEWEB03"},
+            {"Name" : "SJDEWEB04"}
+        ]
+    },
+    { 
+        "Domain" : "Production",
+        "Server" :
+        [
+            {"Name" : "SJPRWEB01"},
+            {"Name" : "SJPRWEB02"},
+            {"Name" : "SJPRWEB03"},
+            {"Name" : "SJPRWEB04"},
+            {"Name" : "SJPRWEB05"},
+            {"Name" : "SJPRWEB06"},
+            {"Name" : "SJPRWEB07"},
+            {"Name" : "SJPRWEB08"},
+            {"Name" : "SJPRWEB09"}
+        ]
+    }
+]  
+}

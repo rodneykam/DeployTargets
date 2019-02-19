@@ -1,0 +1,11 @@
+C:\Users\rokam\Documents\projects\DeployCenter\obj\Debug\netcoreapp2.2\DeployCenter.csprojAssemblyReference.cache
+C:\Users\rokam\Documents\projects\DeployCenter\obj\Debug\netcoreapp2.2\DeployCenter.csproj.CoreCompileInputs.cache
+C:\Users\rokam\Documents\projects\DeployCenter\obj\Debug\netcoreapp2.2\DeployCenter.AssemblyInfoInputs.cache
+C:\Users\rokam\Documents\projects\DeployCenter\obj\Debug\netcoreapp2.2\DeployCenter.AssemblyInfo.cs
+C:\Users\rokam\Documents\projects\DeployCenter\bin\Debug\netcoreapp2.2\DeployCenter.deps.json
+C:\Users\rokam\Documents\projects\DeployCenter\bin\Debug\netcoreapp2.2\DeployCenter.runtimeconfig.json
+C:\Users\rokam\Documents\projects\DeployCenter\bin\Debug\netcoreapp2.2\DeployCenter.runtimeconfig.dev.json
+C:\Users\rokam\Documents\projects\DeployCenter\bin\Debug\netcoreapp2.2\DeployCenter.dll
+C:\Users\rokam\Documents\projects\DeployCenter\bin\Debug\netcoreapp2.2\DeployCenter.pdb
+C:\Users\rokam\Documents\projects\DeployCenter\obj\Debug\netcoreapp2.2\DeployCenter.dll
+C:\Users\rokam\Documents\projects\DeployCenter\obj\Debug\netcoreapp2.2\DeployCenter.pdb
